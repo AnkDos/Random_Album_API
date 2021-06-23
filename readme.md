@@ -1,3 +1,7 @@
+## Aim
+
+The Aim behind this was to write a small flask project to showcase how we can structure our code using flask blueprint , writing class based view for a better organized code and handling exceptions with proper response status and message .
+
 # Random Album Suggestion API
 ## An API to suggest a random album from Rolling Stone's 500 Greatest Albums of All Time dateset . It will either return a random album from list or all album from list depending upon the context sent with the request .
 
@@ -70,7 +74,3 @@ Random_Album_API (Root)
 ## Screenshot taken for invalid request
    
    ![output](screenshots/invalid_request-min.png)
-
-## Aim
-
-The Aim behind this was to write a small flask project to showcase how we can structure our code using flask blueprint , writing class based view for a better organized code and handling exceptions .
